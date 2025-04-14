@@ -1,0 +1,91 @@
+<HTML>
+<HEAD>
+  <TITLE>Hauptmenu</TITLE>
+  <BASE TARGET="hauptframe">
+  <SCRIPT LANGUAGE="JavaScript">
+  <!--
+    on      = new Image(24,30);
+    on.src  = "bilder/patte_menu.gif";
+    off     = new Image(24,30);
+    off.src = "bilder/patte_menu_off.gif";
+    homemenu_on       = new Image(24,30);
+    homemenu_on.src   = "bilder/homemenu_on.gif";
+    dienstemenu_on     = new Image(24,30);
+    dienstemenu_on.src = "bilder/dienstemenu_on.gif";
+    stufenmenu_on      = new Image(24,30);
+    stufenmenu_on.src  = "bilder/stufenmenu_on.gif";
+    homemenu          = new Image(24,30);
+    homemenu.src      = "bilder/homemenu.gif";
+    dienstemenu        = new Image(24,30);
+    dienstemenu.src    = "bilder/dienstemenu.gif";
+    stufenmenu         = new Image(24,30);
+    stufenmenu.src     = "bilder/stufenmenu.gif";
+
+   function no()
+     {
+      var a = a;
+     }
+
+   function menu(pos)
+     {
+       if (pos==1) 
+         {
+           document['Patte_Abteilung'].src=on.src;
+           document['Patte_Dienste'].src=off.src;
+           document['Patte_Stufen'].src=off.src;
+           parent.frames[1].location.href="abteilung/menu.htm";
+         }
+       if (pos==2) 
+         {
+           document['Patte_Abteilung'].src=off.src;
+           document['Patte_Dienste'].src=on.src;
+           document['Patte_Stufen'].src=off.src;
+           parent.frames[1].location.href="dienste/menu.htm";
+         }
+       if (pos==3) 
+         {
+           document['Patte_Abteilung'].src=off.src;
+           document['Patte_Dienste'].src=off.src;
+           document['Patte_Stufen'].src=on.src;
+           parent.frames[1].location.href="stufen/menu.htm";
+         }
+     }
+  //-->
+  </SCRIPT>
+</HEAD>
+
+<BODY TEXT="#C0C0C0" BGCOLOR="#000000" LINK="#FF0000" ALIGN=LEFT>
+
+<IMG SRC="bilder/top_menu.gif">
+
+<BR>
+
+<TABLE BORDER=0 WIDTH="190">
+  <TR>
+    <TD ALIGN=CENTER WIDTH=20>
+      <IMG NAME="Patte_Abteilung" SRC="bilder/patte_menu.gif" WIDTH=20>
+    </TD>
+    <TD ALIGN=LEFT WIDTH=180>
+      <A HREF="abteilung/titel.htm" TARGET="hauptframe" OnMouseOver="Abteilungbutton.src=homemenu_on.src" OnMouseOut="Abteilungbutton.src=homemenu.src" OnClick="menu(1)"><IMG NAME="Abteilungbutton" SRC="bilder/homemenu.gif" BORDER=0 WIDTH="120"></A></CENTER></A>
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+      <IMG NAME="Patte_Dienste" SRC="bilder/patte_menu_off.gif" WIDTH=20>
+    </TD>
+    <TD ALIGN=LEFT WIDTH=180>
+    <A HREF="dienste/titel.htm" TARGET="hauptframe" OnMouseOver="Dienstebutton.src=dienstemenu_on.src" OnMouseOut="Dienstebutton.src=dienstemenu.src" OnClick="menu(2)"><IMG NAME="Dienstebutton"SRC="bilder/dienstemenu.gif" BORDER=0 WIDTH="120"></A>
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+      <IMG NAME="Patte_Stufen" SRC="bilder/patte_menu_off.gif" WIDTH=20>
+    </TD>
+    <TD ALIGN=LEFT WIDTH=180>
+    <A HREF="stufen/titel.htm" TARGET="hauptframe" OnMouseOver="Stufenbutton.src=stufenmenu_on.src" OnMouseOut="Stufenbutton.src=stufenmenu.src" OnClick="menu(3)"><IMG NAME="Stufenbutton"SRC="bilder/stufenmenu.gif" BORDER=0 WIDTH="120"></A>
+    </TD>
+  </TR>
+</TABLE>
+
+</BODY>
+</HTML>

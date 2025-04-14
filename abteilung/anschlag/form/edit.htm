@@ -1,0 +1,55 @@
+<html>
+<head>
+	<title>Anschlag der Abteilung</title>
+</head>
+<body TEXT="#000000" BGCOLOR="#DDDDDD" LINK="#0000FF" VLINK="#0000FF" ALINK="#0000FF">
+
+<B><FONT SIZE=+5><center>Bearbeitung</center></FONT></B>
+<HR 100%>
+<BR>
+<a href="/cgi/member/editanschlag.pl?logout">logout</a>
+<BR>
+
+<center>
+<table border=3 cellspacing=0 background="/abteilung/anschlag/bilder/bkgnd.jpg" WIDTH="200%">
+	<tr>
+		<td colspan=2>&nbsp;</td>
+		<td>ID</td>
+		<td>Datum</td>
+		<td>Stufe</td>
+		<td>Titel</td>
+		<td>Antreten<BR>Zeit</td>
+		<td>Antreten<BR>Ort</td>
+		<td>Abtreten<BR>Zeit</td>
+		<td>Abtreten<BR>Ort</td>
+		<td>Tenu</td>
+		<td>Mitnehmen</td>
+		<td>Besonderes</td>
+		<td>Unterschrift</td>
+		<td>User</td>
+	</tr>
+		<!--BEGIN_LIST-->
+	<tr>
+		<td align=center><a href="/cgi/member/editanschlag.pl?edit=$idnum$"><img border=0 alt="bearbeiten" src="/abteilung/anschlag/bilder/editicon.gif"></a></td>
+		<td align=center><a href="/cgi/member/editanschlag.pl?delete=$idnum$"><img border=0 alt="l&ouml;schen" src="/abteilung/anschlag/bilder/delicon.gif"></a></td>
+		<td>$idnum$&nbsp;</td>
+		<td>$datum$&nbsp;</td>
+		<td>$stufe$&nbsp;</td>
+		<td>$titel$&nbsp;</td>
+		<td>$anzeit$&nbsp;</td>
+		<td>$anort$&nbsp;</td>
+		<td>$abzeit$&nbsp;</td>
+		<td>$abort$&nbsp;</td>
+		<td>$tenu$&nbsp;</td>
+		<td>$mit$&nbsp;</td>
+		<td>$bes$&nbsp;</td>
+		<td>$sign$&nbsp;</td>
+		<td>$user$&nbsp;</td>
+	</tr>
+		<!--END_LIST-->
+</table>
+</center>
+
+
+</body>
+</html>

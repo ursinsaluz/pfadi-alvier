@@ -1,0 +1,5 @@
+AuthName "upload"
+AuthType Basic
+AuthUserFile /home/alvier.ch/access/uploaders
+
+require valid-user

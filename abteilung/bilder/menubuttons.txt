@@ -1,0 +1,6 @@
+Schrift=Balloon
+Schriftgrösse=20
+zentrieren:Horizontal, Vertikal, mehr oder weniger
+Buchstaben befestigen mit Farbe: 200, 200, 200
+Buchstabenfarbe OFF: 0, 0, 255
+Buchstabenfarbe ON: 255, 255, 0

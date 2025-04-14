@@ -1,0 +1,6 @@
+??x20 Pixel Bild Hintergrund Schwarz(0,0,0)
+Balloon XBd BT: 20pt, Anti-Aliasing
+Objekt: horizontal, vertikal zentriert
+8bit konvertierung: optimiert
+links und rechts 10 Pixel Schwarz
+interlaced, transparenz: Schwarz(0,0,0)

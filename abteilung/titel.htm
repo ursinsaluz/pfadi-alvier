@@ -1,0 +1,125 @@
+<html>
+<head>
+<base target=hauptframe>
+<link rel=File-List href="titel_files/filelist.xml">
+<link rel=Edit-Time-Data href="titel_files/editdata.mso">
+<title>Pfadi Alvier Buchs : Abteilungshomepage</title>
+</head>
+
+<SCRIPT LANGUAGE="JavaScript"> 
+<!-- 
+
+/*Datum f|r Countdown im Format: (MONTH DAY, YEAR). 
+Es wird die Zeit zwischen dem 1.1.1970 und dem Zieldatum ermittelt*/ 
+
+var zieldatum = new Date("July 07, 2007");
+actionText = "";
+
+/*Diese Funktion sorgt daf|r, dass einstellige Werte mit einer f|hrenden Null 
+versehen werden. Hat also keine Funktionalitdt und dient nur der Kosmetik ;-)*/ 
+
+function toSt(n) {                      
+  s="" 
+  if(n<10) s+="0" 
+  return s+n.toString(); 
+} 
+
+/*Dies ist die Hauptfunktion*/ 
+  
+function countdown() { 
+  cl=document.clock; 
+  
+/*Der Variablen "heute" wird der Inhalt des Date Objects zugewiesen. 
+Das ist die Zeit in Millisekunden seit dem 1.1.1970*/ 
+  
+  heute=new Date(); 
+
+/* Berechnet wird die Zeit zwischen "zieldatum" und der aktuellen Zeit in Sekunden. 
+Die Funktion Math.foor rundet ab. Es wird die ndchst niedrigere Ganzzahl zur|ckgegeben. 
+Innerhalb der Klammer findet die Subtraktion der Werte Zieldatum und heute statt. 
+Da das Ergebnis in Millisekunden vorliegt, wird durch die Division gleich in Sekunden umgerechnet.*/ 
+  
+  count=Math.floor((zieldatum.getTime()-heute.getTime())/1000+37800-3601.466667-1800); 
+
+/*Dieser Abschnitt verhindert die Anzeige einer Null oder eines negativen Wertes. 
+Wenn kein Wert oder ein negativer vorliegt, dann wird -- bzw. ---- ausgegeben*/ 
+
+  if(count<=0)                         
+    {cl.tage.value ="----"; 
+     cl.stunden.value="--"; 
+     cl.minuten.value="--"; 
+     cl.sekunden.value="--"; 
+     return; 
+   } 
+    
+/*In diesem Abschnitt weden nun aus den Sekunden (count) die Werte f|r die Sekunden, 
+Minuten, Stunden und Tage berechnet.*/ 
+
+  cl.sekunden.value=toSt(count%60);  //Modulo60 -> Teilen durch 60 und Ausgabe des Restes 
+  count=Math.floor(count/60);       //Ermittlung der Minuten    
+  cl.minuten.value=toSt(count%60);   //Modulo60 -> Teilen durch 60 und Ausgabe des Restes 
+  count=Math.floor(count/60);       //Berechnung der Stunden 
+  cl.stunden.value=toSt(count%24);   //Modulo24 -> Teilen durch 24 und Ausgabe des Restes 
+  count=Math.floor(count/24);       //Berechnung der Tage 
+  cl.tage.value=count;    
+  
+  setTimeout("countdown()",1000);    //Wartezeit von einer Sekunde 
+} 
+// --> 
+</script>
+
+<body bgcolor="#DDDDDD" lang=DE-CH link=red vlink=red style='tab-interval:
+35.4pt' alink=red onLoad="countdown();">
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center;'><img width=141
+height=141 id="_x0000_i1025" src="../bilder/patte.gif"><img width=232
+height=156 id="_x0000_i1026" src="../bilder/pfadi.gif" alt="Pfadi Alvier Buchs"
+align=BOTTOM><img width=141 height=141 id="_x0000_i1056"
+src="../bilder/patte.gif"></p>
+
+<p class=MsoNormal style='margin-bottom: 12.0pt;'><o:p>&nbsp;</o:p></p>
+
+<p align=center style='text-align:center'><span
+style='font-size:24.0pt'></nobr>Willkommen auf der Homepage der <span
+class=SpellE>Pfadi</span> <span class=SpellE>Alvier</span> Buchs</span> </p>
+  <br>
+  <center>
+    <strong><span lang=EN-GB style='font-family:Arial;mso-ansi-language:EN-GB'>Countdown bis zum SoLa:</span></strong><span lang=EN-GB style='mso-ansi-language:EN-GB'> <o:p></o:p></span></p>
+  </center>
+<form name=clock style="margin-bottom: 0;">
+
+<div align=center>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="50%"
+ style='width:50.0%;border-collapse:collapse;mso-padding-alt:1.5pt 1.5pt 1.5pt 1.5pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Comic Sans MS"'>Tage:</span> </p>
+  </td>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Comic Sans MS"'>Stunden:</span> </p>
+  </td>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Comic Sans MS"'>Minuten:</span> </p>
+  </td>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Comic Sans MS"'>Sekunden:</span> </p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><INPUT TYPE="TEXT" SIZE="4" NAME="tage"></p>
+  </td>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><INPUT TYPE="TEXT" SIZE="2" NAME="stunden"></p>
+  </td>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><INPUT TYPE="TEXT" SIZE="2" NAME="minuten"></p>
+  </td>
+  <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal align=center style='

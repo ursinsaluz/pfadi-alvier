@@ -1,0 +1,7 @@
+# robots.txt fuer http://www.alvier.ch/
+User-agent: *
+Disallow: /test
+Disallow: /abteilung/test
+Disallow: /cgi/
+Disallow: /bilder/
+Disallow: /abteilung/gaestebuch/

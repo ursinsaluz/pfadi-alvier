@@ -1,0 +1,157 @@
+	Name	Vorname	Vulgo	Adresse	PLZ	Wohnort	Telefon	e-mail-Adresse	Mobile	geboren	Jhg.	Stufe	Beitritt	
+	Al Daher	Laila	Capriola	Sportplatzstr. 1668	9473	Gams	081-740 33 38	rahel.aldaher@freesurf.ch		3.11.1998	1998	0	15.5.2004	
+	Ashley	John	Chnortz	Badstr. 3	9475	Rans	081- 785 22 91	a.ashley@schulebuchs.ch		6.11.1998	1998	0	15.5.2004	
+	Bänziger	Claudio		Lerchenweg 4	9470	Buchs	081-756 34 08	baenzbu@bluewin.ch		28.12.1999	1999	0	23.10.2004	
+	Heldstab	Sascha	Shrek	Halden	9473	Gams	081- 771 66 44		078-603 00 84	17.9.1998	1998	0	15.5.2004	*
+	Hutter	Sarina	Scampi	Montjolweg 1	9475	Sevelen	081- 785 27 88	khutter@catv.sol.ch		23.3.1998	1998	0	15.5.2004	*
+	Mohr	Dominik	Zeus	Zehntenweg 6	9470	Buchs	081- 756 28 41			10.8.1998	1998	0	15.5.2004	
+	Müller	Anna	Calypsa	Erlengrund 7	9470	Buchs	081-756 34 97	gernotmueller@mydiax.ch		5.1.1998	1998	0	-	*
+	Sharabati	Elias		Auweg 4	9470	Buchs	081-756 26 90			26.4.1996	1996	0	15.1.2005	*
+	Sharabati	Sammy		Auweg 4	9470	Buchs	081-756 26 90			23.11.1997	1997	0	15.1.2005	*
+	Wäger	Richard		Buchenweg 4	9472	Grabs	081-771 76 36			5.8.1999	1999	0	4.10.2004	
+	Wäger	Bernhard		Buchenweg 4	9472	Grabs	081-771 76 36			21.6.1998	1998	0	4.10.2004	*
+	Wenzl	Emma		Bongertstrasse 4	9472	Grabs	081-771 53 84	ekpwenzl@bluewin.ch		20.2.1999	1999	0	15.1.2004	
+	Zogg	Tanja		Am Bongert 5	9472	Grabs	081-771 44 88	zogg@zogg-freuler.ch		30.10.1998	1998	0	23.10.2004	
+	Arakawa	Chaowei	Miro	Werdenbergstr. 32	9470	Buchs	081- 756 51 02			24.11.1994	1994	1	-	
+	Ashley	Sophie May	Momo	Badstr. 3	9475	Rans	081- 785 22 91	a.ashley@schulebuchs.ch		10.03.1997	1997	1	21.05.2003	
+	Bacchi	Pascal		Rheinstr. 22	9470	Buchs	081-7567822			20.9.1996	1996	1	27.3.2004
+	Bacchi	Patrik		Rheinstr. 22	9470	Buchs	081-7567822			24.9.1996	1996	1	27.3.2004
+	De Sandre	Manuel		Tiegengasse	9473	Gams	081 - 771 70 31	rdesandre@bluewin.ch		09.06.1996	1996	1	08.03.2003
+	De Sandre	Ylenia	Müsli	Tiegengasse	9473	Gams	081 - 771 70 31	rdesandre@bluewin.ch		18.10.2004	1994	1	14.6.2003
+	Dürr	Jannic		Bütz	9473	Gams	081-771 60 28	d.benedikt@bluewin.ch		5.9.1994	1994	1	29.5.2004
+	Forster	Michelle	Erbsli	Meisenweg 7	9470	Werdenberg	081- 771 43 41	forster-breu@bluewin.ch		16.05.1996	1996	1	17.03.2003
+	Grünenfelder	Milena-Maria	Luuser	Badstrasse 22	9475	Sevelen		manu.l@bluewin.ch	079-424 24 17	29.12.1997	1997	1	-
+	Hutter	Silvan		Montjolweg 1	9475	Sevelen	081-785 27 88	khutter@catv.rol.ch		24.8.1995	1995	1	15.5.2004
+	Jacometti	Joshua		Churerstrasse 165	9470	Buchs	081-7400064	riclid@bluewin.ch		28.7.1997	1997	1	15.3.2004
+	Jahai	Severin	Medwed	Ruesteinweg 10	9475	Sevelen	081-7562613	anita.jahai@ .ch		18.12.1994	1994	1	20.9.2003
+	Kaiser	Dominik	Pepito	Sennereigasse 12	9470	Buchs	081 - 756 36 54					1	-
+	Künzler	Thomas	Schelm	Churerstr. 149	9470	Buchs	081- 756 54 51			08.08.1994	1994	1	13.09.2001
+	Lehmann	Johannes		Oberstüdtlistr. 18	9470	Buchs	081-756 51 95			26.12.1994	1994	1	5.3.2004
+	Marti	Gian-Luca	Purzel	Kleestr. 3	9470	Buchs	081- 756 63 94					1	24.03.2000
+	Mayenknecht	Simon	Lago	Moosweg 3	9470	Buchs	081-756 56 02	mayenknecht@bluewin.ch		6.6.1997	1997	1	15.5.2004
+	Müller	Andreas	Jam	Erlengrund 7	9470	Buchs	081-756 34 97	gernotmueller@mydiax.ch		10.3.1995	1995	1	21.11.2003
+	Poletti	Ruben	Kibitz	Ampadell 1443	9472	Grabs	081- 771 71 63	husmann@spin.ch		21.07.1994	1994	1	01.04.2003
+	Roduner	Nadine		Veilchenweg 2	9470	Buchs	081-756 71 22	markusroduner@bluewin.ch		22.9.1995	1995	1	3.6.2004
+	Roduner	Raphael	Speed	Veilchenweg 2	9470	Buchs	081-756 71 22	markusroduner@bluewin.ch		1.4.1998	1998	1	-
+	Roffler	Amandine	Siam	Wiesenstr. 17	9470	Buchs	081- 756 44 14	rudi.roffler@bluewin.ch		12.12.1995	1995	1	22.03.2003
+	Scheidegger	Jim	Nitro	Frohlweg 18	9470	Buchs	081-756 75 25	scheibri@freesurf.ch		23.8.1997	1997	1	15.5.2004
+	Scherrer	Camillo	Fags	Groffeldstr. 17	9470	Buchs	081 - 756 42 30				1996	1	2.9.2003
+	Siegenthaler	Conny	Tikki	Badstr. 2	9475	Sevelen		manu.1@bluewin.ch		18.6.1996	1996	1	20.12.2003
+	Tinner	Niklas	Muck	Badstrasse 13	9475	Sevelen				1.7.1995	1995	1	20.9.2003
+	Walder	Armando	Twister	Vorburg A3	9473	Gams	081-771 50 20			23.11.1997	1997	1	-
+	Wüst	Calvin-Noah	Jodok	Kurzbreiten	9473	Gams	081- 771 69 26	piawuest3@bluewin.ch		25.9.1997	1997	1	15.5.2004
+	Bernet	Daniel	Diablo	Birkenweg 8	9475	Sevelen	081- 785 10 49	bernet.net@bluewin.ch		01.08.1991	1991	2	24.03.2001
+	Bernet	Therese	Taff	Birkenweg 8	9475	Sevelen	081- 785 10 49	bernet.net@bluewin.ch		15.08.1993	1993	2	24.03.2001
+	Burkart	Fabian	Carramba	Tiergartenweg 6	9470	Buchs	081- 756 48 17	k.burkart@bluewin.ch		22.04.1991	1991	2	21.03.1997
+	Ciesla	Jon	Schabernak	Schlossfeld 8	9470	Buchs	081- 756 73 94					2	-
+	Ciesla	Lil	Idefix	Schlossfeld 8	9470	Buchs	081- 756 73 94					2	-
+	Cirignotta	Simona	Struppi	Wäseliweg 20b	9470	Buchs	081- 756 31 28			23.11.1991	1991	2	26.09.1999
+	Feger	Kerstin	Piccolo	Am Röllbach 8	9470	Buchs						2	-
+	Fitzi	Martin		Guler	9473	Gams			079-7353160	4.11.1992	1992	2	30.11.2003
+	Freund	Katrin	Evian	Sardonaweg 5	9475	Sevelen	081-785 16 45			19.9.1993	1993	2	20.9.2003
+	Gmünder	Elvira	Figaro	Zinnenweg 4	9470	Buchs	081- 756 42 27			14.08.1990	1990	2	23.04.1999
+	Gubler	Brigitte	Kiwi	Winkel	9468	Sax	081- 757 29 67	gubler-sax@mails.ch		29.12.1992	1992	2	23.09.2000
+	Gubler	Marianne	Funghi	Winkel	9468	Sax	081- 757 29 67	gubler-sax@hotbot.com				2	-
+	Hagmann	Andreas	Syrius	Dörnenstr. 14	9464	Rüthi	071- 766 13 41	heinz.hagmann@bluewin.ch		22.12.1989	1989	2	02.12.1996
+	Hagmann	Evelyn	Sunny	Dörnenstr. 14	9464	Rüthi	071- 766 13 41	heinz.hagmann@bluewin.ch		09.09.1992	1992	2	26.08.2000
+	Hendry	Flurina	Quasli	Grofstr. 3	9470	Buchs	081- 756 57 61	reto-hendry@bluewin.ch		02.11.1990	1990	2	5.9.2000
+	Hinder	Florentin	Grisou	Ulmenweg 17	9472	Grabs	081- 771 48 67			04.07.1991	1991	2	21.09.1998
+	Hinder	Natalina	Pyretica	Ulmenweg 17	9472	Grabs	081- 771 48 67			25.11.1989	1989	2	21.09.1998
+	Hürlimann	Dimitri	Calmo	Ulmenweg 3	9472	Grabs	081- 771 77 16			14.02.1993	1993	2	10.09.2000
+	Kaiser	Fabienne	Fuchur	Sennereigasse 12	9470	Buchs	081- 756 36 54			01.08.1993	1993	2	28.10.2000
+	Künzler	Fabian	Helio	Churerstr. 149	9470	Buchs	081- 756 54 51			24.02.1991	1991	2	21.03.1997
+	Künzler	Nicole	Vita	Churerstr. 149	9470	Buchs	081- 756 59 51			28.05.1989	1989	2	04.11.2000
+	Ladner	Jasmine	Aqui	Arinweg 3	9470	Buchs	081- 756 75 61			08.06.1990	1990	2	21.03.1997
+	Ladner	Nathalie	Amidala	Arinweg 3	9470	Buchs	081- 756 75 61			23.06.1992	1992	z	29.09.1999
+	Mägerle	David	Goliath	Brunnenstr. 5	9470	Buchs	081- 756 23 41					2	-
+	Marti	Guido	Gonzo	Kleestr. 3	9470	Buchs	081- 756 63 94			18.01.1992	1992	2	24.03.2000
+	Marti	Ursina	Fortissima	Kleestr. 3	9470	Buchs	081- 756 63 94				1993	2	3.9.2003
+	Mayenknecht	Sarina	Zabli	Moosweg 3	9470	Buchs	081- 756 56 02	mayenknecht@bluewin.ch		16.03.1991	1991	2	21.03.1997
+	Netzer	Daniel	Wichtel	Schützenweg 21a	9470	Buchs	081- 756 62 10			06.07.1989	1989	2	20.9.1997
+	Saluz	Madleina	Squezzi	Äulistr. 3a	9470	Buchs	081- 756 43 05				1993	2	-
+	Schäffler	Phillip	Snickers	Ulmenweg 10	9472	Grabs	081- 771 49 34			25.09.1992	1992	2	19.02.2000
+	Senn	Michelle	Xenia	Wäseliweg 12	9470	Buchs	081- 756 22 70			29.09.1989	1989	2	-
+	Stadlin	Marco	Globi	Churerstr. 100	9470	Buchs	081- 756 58 69			27.04.1990	1990	2	21.03.1997
+	Stauffacher	Tabea	Zora	Kappelistr. 20	9470	Buchs	081- 756 69 47			30.05.1992	1992	2	16.09.2000
+	Tinner	Jenny	Shiva	Badstrasse 13	9475	Sevelen				25.11.1993	1993	2	20.9.2003
+	Tinner	Rahel	Fäger	Im Winkel	9468	Sax	081- 757 24 39	Tinner@forst.ch		03.03.1989	1989	2	08.05.1998
+	Vorburger	Alice	Perry	Churerstr. 144d	9470	Buchs	081- 756 63 30	k.vorburger@bluewin.ch		19.05.1991	1991	2	21.03.1997
+	Willi	Jasmin	Quiet	Heldaustr. 19	9470	Buchs	081- 756 47 56			24.12.1994	1994	2	15.3.2003
+	Willi	Michelle	Iso	Heldaustr. 19	9470	Buchs	081- 756 47 56			26.11.1991	1991	2	21.09.1998
+	Wüst	Dirk-Nils	Radau	Kurzbreiten	9473	Gams	081- 771 69 26			04.06.1993	1993	2	17.05.2003
+	Benz	Adrian	Lotus	Galstrammweg 11	9475	Sevelen	081- 785 10 28			05.11.1987	1987	3	07.05.1996
+	Busch	Philip	Risus	Herrenbergweg 3	9475	Sevelen	081- 785 25 31			11.10.1988	1988	3	24.01.1996
+	Geeler	Tanja	Crazy	Feldeggstr. 2	9470	Buchs	081- 756 35 51			16.4.1987	1987	3	21.10.2000
+	Gmünder	Damian	Strick	Zinnenweg 4	9470	Buchs	081-756 42 27	damian.gmuender@hotmail.com		29.12.1987	1987	3	15.3.2001
+	Graf	Urs	Mambo	Grofstr. 18	9470	Buchs	081- 756 04 24			16.09.1988	1988	3	27.05.2000
+	Hendry	Alexander	Tartar	Grofstr. 3	9470	Buchs	081- 756 57 61	reto-hendry@bluewin.ch		01.06.1988	1988	3	05.09.2000
+	Isliker	Stephan	Furribund	Rosshag 3	9470	Buchs	081- 756 04 62	stephanisliker@hotmail.com		09.08.1987	1987	3	31.03.1995
+	Morgenthaler	Roger	Wotan	Werdenbergstr. 36	9470	Buchs	081- 756 60 24	R.Morgi@gmx.ch		09.10.1987	1987	3	06.04.1995
+	Nägele	Daniel	Mounty	Vorburg 1573	9473	Gams	081- 771 13 18			11.08.1986	1986	3	13.05.2000
+	Nägele	Reto	Timber	Vorburg 1573	9473	Gams	081- 771 13 18			08.06.1988	1988	3	13.05.2000
+	Netzer	Florian	Wobbler	Schützenweg 21a	9470	Buchs	081- 756 62 10			13.07.1987	1987	3	20.01.1996
+	Roffler	Melinda	Flupp	Wiesenstr. 17	9470	Buchs	081- 756 44 14			24.03.1988	1988	3	07.05.1996
+	Rohrer	Joana	Gismo	Groffeldstr. 9	9470	Buchs	081- 756 15 21			21.10.1988	1988	3	13.05.2000
+	Saluz	Ursin	Schlingel	Äulistr. 3a	9470	Buchs	081- 756 43 05			25.01.1988	1988	3	26.04.1996
+	Scherrer	David	Nepomuk	Groffeldstr. 17	9470	Buchs	081- 756 42 30			24.07.1988	1988	3	31.08.1996
+	Burkart	Michael	Mogli	Tiergartenweg 6	9470	Buchs	081- 756 48 17	burkatt@yahoo.de		20.07.1986	1986	4	20.06.1992
+	Busch	Lukas	Kolibri	Herrenbergweg 3	9475	Sevelen	081- 785 25 31			05.09.1986	1986	4	24.01.1996
+	Dubach	Ramona	Dul-x	Narzissenweg 2	9470	Buchs	081- 756 19 31			23.12.1985	1985	4	27.02.1998
+	Eberli	Caroline	Surri	Tiergartenweg 13	9470	Buchs	081- 756 54 73	caro.eberli@gmx.ch	079- 424 82 00	14.03.1978	1978	4	15.02.2001
+	Eberli	Nicola	Topolino	Tiergartenweg 13	9470	Buchs	081- 756 54 73	nicola_eberli@gmx.ch	079-366 52 82	04.10.1983	1983	4	25.06.1991
+	Eberli 	Michael	Gäms	Grofstr. 6	9470	Buchs		eberli@bigfoot.com	076- 540 90 66	16.12.1974	1974	4	11.05.1982
+	Eichler	Christoph	Muus	Weinbergstr. 8	5417	Untersiggenthal	056- 288 19 21	christoph.eichler@ch.abb.com		28.01.1970	1970	4	11.09.1993
+	Frei	Marco	Knorrli	Saarweg 1	9475	Sevelen	081- 785 18 51	mc.fly@switzerland.org	078- 808 87 55	17.09.1980	1980	4	25.10.1991
+	Gabathuler	Markus	Falk	Arvenweg 2	9470	Buchs	081- 756 19 62	lemec@bluewin.ch	078- 878 30 11	30.11.1972	1972	4	21.09.1982
+	Graf	Marco	Marabu	Heldaustr. 18	9470	Buchs	081- 756 51 09	marco.graf@schweiz.org	078- 603 00 45	18.04.1978	1978	4	13.03.1989
+	Graf	Sandro	Sprutz	Auweg 1a	9470	Buchs	081- 756 00 35	grafsan@hilti.com		30.01.1974	1974	4	17.05.1982
+	Hausammann	Renato	Silentium	Bergstr. 28	9475	Sevelen	081- 785 10 36			07.08.1984	1984	4	14.11.1992
+	Hess	Patrizia	Quirl	St. Gallerstr. 16	9470	Buchs		hess.patrizia@lippuner-emt.com	079- 236 67 73	08.02.1978	1978	4	22.06.1985
+	Kaufmann	Jürg	Revox	Eggweg 2	9470	Buchs	081- 756 09 41	Juerg.Kaufmann@bzbuchs.ch	078- 653 20 33	24.02.1974	1974	4	19.12.1981
+	Kofler	Martin	Klefer	Zweier	9473	Gams	081- 771 76 01	Kofler@gmx.ch		08.05.1982	1982	4	10.12.1994
+	Märk	Petra	Gispel	Tiergartenweg 18	9470	Buchs	081- 756 64 13	petramaerk@hotmail.com		09.07.1982	1982	4	19.11.1991
+	Mosele	Simon	Bison	Kreuzgasse 26	9470	Buchs	081- 756 62 31	MOES@bluewin.ch		13.03.1971	1971	4	14.11.1981
+	Netzer	Alexander	Pumuckl	Schützenweg 21a	9470	Buchs	081- 756 62 10			23.04.1982	1982	4	29.09.1991
+	Rohrer	Urs	Tschipo	Wetti	9470	Buchs		ursrohrer@befree.ch	078- 835 15 10	09.12.1975	1975	4	23.08.1987
+	Röthenbacher	Felix	Pablo	Plattnach 24	9470	Buchs	081- 756 15 59	fr@swissmail.ch		11.11.1976	1976	4	09.03.1985
+	Röthenbacher	Karin	Stups	Plattnach 24	9470	Buchs	081- 756 15 59	r.karin@gmx.ch		20.10.1978	1978	4	06.03.1993
+	Rutz	Andrea	Simba	Hauptstr. 8a	9477	Trübbach	081- 783 39 57	rutzandrea@hotmail.com	079- 668 49 51	05.04.1978	1978	4	23.11.1985
+	Rutz	Michael	Murmäl	Grofstr. 6	9470	Buchs		m_rutz@mail.datacomm.ch	078- 658 71 63	05.01.1975	1975	4	26.05.1982
+	Scherrer	Lena	Piano	Groffeldstr. 17	9470	Buchs	081- 756 42 30			23.07.1986	1986	4	31.08.1996
+	Schlegel	Cornelia	Sheela	Brunnenstr. 2	9470	Buchs		cornelias@gmx.ch	079- 216 84 67	15.04.1975	1975	4	07.12.1985
+	Schlegel	Dominique	Ratio	Am Gupfenbühel	9493	Mauren	075- 232 78 75	dominique.schlegel@aaw.li	078- 677 31 46	10.01.1975	1975	4	26.05.1982
+	Schmalz	Steven	Herkules	Montjolweg 7	9475	Sevelen	081- 785 12 09			22.12.1984	1984	4	29.09.1991
+	Schreiber 	Harald	Kermit	Schlossfeld 6	9470	Buchs	081- 756 05 61	fireskull90@hotmail.co	079-366 51 08	02.09.1983	1983	4	22.04.1995
+	Schwarz	Christoph	Volt	Rosenweg 7	9472	Grabs	081- 771 45 57			03.08.1982	1982	4	12.05.1990
+	Schwendener	Thomas	Kajak	Quellenweg 2	9470	Buchs	081- 756 53 46	thomas.schwendener@dhl.com	079- 327 77 62	08.09.1981	1981	4	04.12.1991
+	Senn	Marcel	Corrado	Postfach	9472	Grabs		senn.m@gmx.ch	078- 629 15 77	27.02.1977	1977	4	25.01.1997
+	Siegenthaler	Vera	Panda	Birkenweg 8	9475	Sevelen	081- 785 10 49	verasiegenthaler@bluemail.ch	078- 755 20 04	20.02.1982	1982	4	28.09.1991
+	Spring	Christoph	Garfield	Rüti	9470	Werdenberg	081- 771 48 10	ch.spring@werdenberg.ch		10.04.1981	1981	4	13.09.1990
+	Tischhauser	Ladina	Flipper	Stadthausstr. 22	9620	Lichtensteig	071- 722 02 03	l.tischhauser@gmx.ch		26.08.1978	1978	4	01.06.1987
+	Titz	Sebastian	Balu	Untere Gasse 11	9470	Buchs	081- 756 21 01			27.11.1983	1983	4	06.03.1993
+	Vuilleumier	Claudia	Aqua	Burgerweg 10	9470	Buchs	031- 371 88 52	claudiavuilleumier@hotmail.com		08.09.1975	1975	4	08.11.1985
+	Eggenberger	Kurt	Orion	Werdenstr. 19	9472	Grabs	081- 771 21 57					APV	-
+	Schwendener	Kurt	Spatz	Flurweg 15	9472	Grabs	081- 771 42 89	k.schwendener@dplanet.ch				APV	-
+	Hagmann	Judith	Zimt	Dörnenstr. 14	9464	Rüthi	071- 766 13 41	heinz.hagmann@bluewin.ch				ER	-
+	Hinder	Martin	Piff	Ulmenweg 17	9472	Grabs	081- 771 48 67					ER	-
+	Saluz	Flurin	Holzwurm	Äulistr. 3a	9470	Buchs	081- 756 43 05					ER	-
+	Scherrer	Niklaus	Womm	Hostetgass 23	9470	Buchs	081- 756 00 24	Niklaus@bluewin.ch				ER	-
+	Schreiber	Wolfgang		Schlossfeld 6	9470	Buchs	081- 756 05 61					ER	-
+	Schwendener	Paul	Zwirbel	Quellenweg 2	9470	Buchs	081- 756 53 66	Paul.Schwendener@zhu.ch.danzas.com				ER	-
+	Spring	Roland	Kaka	Rüti	9470	Werdenberg	081- 771 48 10	kaka@kantonalverband.ch	079- 406 75 15			ER	-
+	Vorburger	Kurt		Churerstr. 144d	9470	Buchs	081- 756 63 30	k.vorburger@bluewin.ch				ER	-
+	Burkart	Katrin	Strolch	Tiergartenweg 6	9470	Buchs	081- 756 48 17	k.burkart@bluewin.ch				z	-
+	Cirignotta	Elisabeth		Wäseliweg 20b	9470	Buchs	081- 756 31 28					z	-
+	Eggenberger	Philipp	Sputnik	Bongertstr. 14	9472	Grabs	081- 771 20 44			25.10.1988	1988	z	08.11.1997
+	Hagmann	Florian	Gigolo	Fegernhof	9470	Buchs	081- 756 61 33			04.04.1989	1989	z	20.01.1997
+	Hofstetter	Milena-Maria		Wiedenstr. 38	9470	Buchs	081-7560718	hofstetter@imtmedical.com		23.11.1995	1995	z	30.11.2003
+	Montonato	Jessica	Feivel	Moosweg 11	9470	Buchs	081- 756 38 01					z	-
+	Oswald	David	Jojo	Grist	9472	Grabs	081- 740 30 82	edos@onetelnet.ch		07.05.1969	1969	4	01.01.1991
+	Schweiwiller	Rafaela		Aeulistr. 9a	9470	Buchs	081-7560227	manuela.schweiwiller@freesurf.ch				z	10.9.2003
+	Titz	Monika		Untere Gasse 11	9470	Buchs	081- 756 21 01					z	-
+	Zimmermann	Marco		Haldengasse 2	9470	Buchs	0  -         0		079- 286 54 39	24.12.1994	1994	z	15.03.2003
+
+
+
+
+	Tell	Mara	Filou	Ilgenweg 2	9470	Buchs	081- 756 70 49			14.08.1989	1989	2	21.06.1996

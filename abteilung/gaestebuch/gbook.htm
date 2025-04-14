@@ -1,0 +1,137 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Notepad + EMACS">
+   <META NAME="Author" CONTENT="Marco Graf">
+   <TITLE>Gaestebuch</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#DDDDDD" LINK="#FF00FF" VLINK="#008080" ALINK="#FF0000">
+
+<B><FONT SIZE=+2>Unser G&auml;stebuch</FONT></B>
+<BR>
+<HR>
+<BR>
+
+<DIV ALIGN="CENTER">
+
+<FONT COLOR="#8080FF"><EM><STRONG>[ <A HREF="gbookform.htm">Wir freuen uns, wenn auch Du Dich hier eintr&auml;gst!</A> ]</EM></STRONG></FONT><BR>
+
+<BR>
+
+<FONT COLOR="#8080FF"><EM><STRONG>Eintrag $startnr$-$endnr$ des G&auml;stebuchs ($anzeintraege$ Eintragungen)</STRONG></EM></FONT><BR>
+
+<TABLE BORDER=0 WIDTH=300>
+	<TR>
+		<TD WIDTH="50%" ALIGN=LEFT>
+<!--$prev$-->
+			<FONT COLOR="#8080FF"><EM><STRONG>[ <a href="gbook.cgi?vonzeile=$prev$">vorherige 10</a> ]</STRONG></EM></FONT>
+<!--$prev$-->
+		</TD>
+		<TD WIDTH="50%" ALIGN=RIGHT>
+<!--$next$-->
+			<FONT COLOR="#8080FF"><EM><STRONG>[ <a href="gbook.cgi?vonzeile=$next$">n&auml;chste 10</a> ]</STRONG></EM></FONT>
+<!--$next$-->
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+
+<TABLE BORDER="0" CELLSPACIN="1" WIDTH="80%">
+	<TR>
+		<TD COLSPAN="2" WIDTH="100%">
+			<HR SIZE="1">
+		</TD>
+	</TR>
+<!--BEGIN_GBOOK--><!--$timedate$-->
+	<TR VALIGN=TOP>
+		<TD valign"top" bgcolor="#C0D4EE" width="20%">
+			<font face="Arial, Helvetica" size="2" color="#0000"><em><strong>Datum</strong></em></font>
+		</TD>
+		<TD valign="top" bgcolor="#C0D4EE" width="80%">
+			<font face="Arial, Helvetica" size="2" color="#000000"><em>$timedate$</em></font>
+		</TD>
+	</TR>
+<!--$timedate$--><!--$name$-->
+	<TR VALIGN=TOP>
+		<TD valign="top" bgcolor="#C0D4EE" width="20%">
+			<font face="Arial, Helvetica" size="2" color="#0000"><em><strong>Name Vorname</strong></em></font>
+		</TD>
+		<TD valign"top" bgcolor="#C0D4EE" width="80%">
+			<font face="Arial, Helvetica" size="2" color="#000000"<em>$name$</em></font>
+		</TD>
+	</TR>
+<!--$name$--><!--$vulgo$-->
+	<TR VALIGN=TOP>
+		<TD valign="top" bgcolor="#C0D4EE" width="20%">
+			<font face="Arial, Helvetica" size="2" color="#0000"><em><strong>Pfadiname</strong></em></font>
+		</TD>
+		<TD valign"top" bgcolor="#C0D4EE" width="80%">
+			<font face="Arial, Helvetica" size="2" color="#000000"<em>$vulgo$</em></font>
+		</TD>
+	</TR>
+<!--$vulgo$--><!--$ort$-->
+	<TR VALIGN=TOP>
+		<TD valign="top" bgcolor="#C0D4EE" width="20%">
+			<font face="Arial, Helvetica" size="2" color="#0000"><em><strong>Pfadiabteilung</strong></em></font>
+		</TD>
+		<TD valign"top" bgcolor="#C0D4EE" width="80%">
+			<font face="Arial, Helvetica" size="2" color="#000000"<em>$ort$</em></font>
+		</TD>
+	</TR>
+<!--$ort$--><!--$mailfrom$-->
+	<TR VALIGN=TOP>
+		<TD valign="top" bgcolor="#C0D4EE" width="20%">
+			<font face="Arial, Helvetica" size="2" color="#0000"><em><strong>e-mail</strong></em></font>
+		</TD>
+		<TD valign"top" bgcolor="#C0D4EE" width="80%">
+			<font face="Arial, Helvetica" size="2" color="#000000"<em>$mailfrom$</em></font>
+		</TD>
+	</TR>
+<!--$mailfrom$--><!--$homepage$-->
+	<TR VALIGN=TOP>
+		<TD valign="top" bgcolor="#C0D4EE" width="20%">
+			<font face="Arial, Helvetica" size="2" color="#0000"><em><strong>Homepage</strong></em></font>
+		</TD>
+		<TD valign"top" bgcolor="#C0D4EE" width="80%">
+			<font face="Arial, Helvetica" size="2" color="#000000"<em>$homepage$</em></font>
+		</TD>
+	</TR>
+<!--$homepage$--><!--$kommentar$-->
+	<TR VALIGN=TOP>
+		<TD valign="top" bgcolor="#C0D4EE" width="20%">
+			<font face="Arial, Helvetica" size="2" color="#0000"><em><strong>Kommentar</strong></em></font>
+		</TD>
+		<TD valign"top" bgcolor="#C0D4EE" width="80%">
+			<font face="Arial, Helvetica" size="2" color="#000000"<em>$kommentar$</em></font>
+		</TD>
+	</TR>
+<!--$kommentar$-->
+	<TR>
+		<TD COLSPAN="2">
+			<HR SIZE="1">
+		</TD>
+	</TR>
+<!--END_GBOOK-->
+</TABLE>
+
+<TABLE BORDER=0 WIDTH=300>
+	<TR>
+		<TD WIDTH="50%" ALIGN=LEFT>
+<!--$prev$-->
+			<FONT COLOR="#8080FF"><EM><STRONG>[ <a href="gbook.cgi?vonzeile=$prev$">vorherige 10</a> ]</STRONG></EM></FONT>
+<!--$prev$-->
+		</TD>
+		<TD WIDTH="50%" ALIGN=RIGHT>
+<!--$next$-->
+			<FONT COLOR="#8080FF"><EM><STRONG>[ <a href="gbook.cgi?vonzeile=$next$">n&auml;chste 10</a> ]</STRONG></EM></FONT>
+<!--$next$-->
+		</TD>
+	</TR>
+</TABLE>
+</DIV>
+
+</BODY>
+</HTML>
+
+

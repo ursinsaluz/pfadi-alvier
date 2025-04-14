@@ -1,0 +1,5 @@
+AuthName "Mitgliederverzeichnis"
+AuthType Basic
+AuthUserFile /home/alvier.ch/access/member
+
+require valid-user

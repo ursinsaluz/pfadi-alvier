@@ -1,0 +1,16 @@
+ Normales Button
+-----------------
+
+Schrift=Comix Sans MS
+Schriftgrösse=35
+Schriftfarbe=Schwarz
+Transparenz=100%
+Anti-Alias=ON
+
+
+
+ ON-Button
+-----------
+Kopie von Normal-Button
+Mit Zauberstab und Anti-Aliasing Weiss markieren
+mit Gelb(255,255,0) füllen

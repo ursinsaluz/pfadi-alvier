@@ -1,0 +1,5 @@
+Schrift=Cooper Lt Bt
+Schriftgrösse=20
+Farbe=Schwarz
+mit Anti-Alias
+einmitten

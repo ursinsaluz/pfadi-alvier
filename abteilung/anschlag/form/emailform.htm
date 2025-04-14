@@ -1,0 +1,58 @@
+<HTML>
+<HEAD>
+	<TITLE>Emaileintrag f&uuml;r Anschlag</TITLE>
+</HEAD>
+<BODY BGCOLOR="#DDDDDD" TEXT="#000000" LINK="#0000FF" ALINK="#FF0000" VLINK="#0000FF">
+
+<FORM METHOD="POST" NAME="email_anschlag_neu" ACTION="/cgi/anschlagemail.pl">
+<INPUT TYPE="hidden" NAME="formart" VALUE="new">
+Hier kannst Du dich eintragen oder Deinen Eintrag &Auml;ndern:<BR>
+<BR>
+<TABLE BORDER=3>
+	<TR>
+		<TD COLSPAN=4>
+			<B><CENTER>email:&nbsp;</B><INPUT TYPE="text" NAME="email" SIZE="30"><BR>
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="biber"> Biber<BR>
+		</TD>
+		<TD>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="stufe1"> 1.Stufe<BR>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="bienli" onClick="if (document.email_anschlag_neu.stufen[1].checked) document.email_anschlag_neu.stufen[0].checked=true;"> Bienli<BR>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="woelfe" onClick="if (document.email_anschlag_neu.stufen[2].checked) document.email_anschlag_neu.stufen[0].checked=true;"> W&ouml;lf<BR>
+		</TD>
+		<TD>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="stufe2"> 2. Stufe<BR>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="pfaderinnen" onClick="if (document.email_anschlag_neu.stufen[4].checked) document.email_anschlag_neu.stufen[3].checked=true;"> Pfaderinnen<BR>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="pfader" onClick="if (document.email_anschlag_neu.stufen[5].checked) document.email_anschlag_neu.stufen[3].checked=true;"> Pfader<BR>
+		</TD>
+		<TD>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="abteilung" checked> Abteilung<BR>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="raider"> Raider<BR>
+			<INPUT TYPE="checkbox" NAME="stufen" VALUE="rover"> Rover<BR>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+			<CENTER><INPUT TYPE="submit" VALUE="OK"><CENTER>
+		</TD>
+	</TR>
+</TABLE>
+</FORM>
+
+<BR>
+<HR>
+<BR>
+
+<FORM METHOD="POST" NAME="email_anschlag_delete" ACTION="/cgi/anschlagemail.pl">
+<INPUT TYPE="hidden" NAME="formart" VALUE="delete">
+Wenn Du den Eintrag von der Liste l&ouml;schen willst trag hier Ihre email-Adresse ein:<BR>
+<BR>
+<NOBR><B>email:&nbsp;</B><INPUT TYPE="text" NAME="email" SIZE="30"><INPUT TYPE="submit" VALUE="L&ouml;schen"></NOBR><BR>
+</FORM>
+
+
+</BODY>
+</HTML>

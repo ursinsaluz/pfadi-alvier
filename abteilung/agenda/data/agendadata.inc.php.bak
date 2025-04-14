@@ -1,0 +1,8 @@
+<?php 
+$daten = array(); 
+$daten[ ] = array('count' => 19880125,'datum' => date("d.m.Y",mktime(0,0,0,1,25,1988)),'thema' => "Schlingel Geburtstag"); 
+$daten[ ] = array('count' => 20011111,'datum' => date("d.m.Y",mktime(0,0,11,11,2001)),'thema' => "11. Sept"); 
+$daten[ ] = array('count' => 20050201,'datum' => date("d.m.Y",mktime(0,0,2,1,2005)),'thema' => "Papiersammeln"); 
+$daten[ ] = array('count' => 19860723,'datum' => date("d.m.Y",mktime(0,0,7,23,1986)),'thema' => "Lena Geburtstag"); 
+sort($daten)
+?>
